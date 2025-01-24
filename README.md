@@ -1,1 +1,1 @@
-Originally started as a introduction to PyTorch for my Students, maybe will add some more basic PyTorch stuff for the ones interested. 
+Originally started as a introduction to PyTorch for my Students, maybe will add some more basic PyTorch stuff for the ones interested. Very open to questions or corrections on the mistakes I have definitely made :) 
